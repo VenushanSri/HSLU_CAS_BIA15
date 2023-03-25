@@ -3,7 +3,7 @@ from datetime import datetime
 #import pandas as pd
 
 #API Key from OpenWeather
-apiKey = '<API-KEY FROM OPENWEATHER>'
+apiKey = '<5be1bbb289a67600ba770ccbb9233209>'
 
 def getResponse(url):
     try:
